@@ -122,7 +122,6 @@ This project successfully demonstrates how different machine learning models per
 ## 📁 Repository Contents
 
 * `notebook.ipynb` — Complete implementation and visualizations
-* `report.pdf` — Detailed project report
 * `README.md` — Project overview and documentation
 
 ---
